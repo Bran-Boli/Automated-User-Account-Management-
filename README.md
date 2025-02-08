@@ -1,7 +1,3 @@
-Here’s your README file without the code:  
-
----
-
 # Project 1: Automated User Account Management (PowerShell)  
 
 ## Overview  
