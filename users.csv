@@ -1,0 +1,3 @@
+FirstName,LastName,Username,OU,Group,Enabled
+John,Doe,jdoe,OU=Employees,OU=Company,DC=example,DC=com,IT,True
+Jane,Smith,jsmith,OU=Employees,OU=Company,DC=example,DC=com,HR,False
